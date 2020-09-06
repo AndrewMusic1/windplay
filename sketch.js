@@ -1,5 +1,5 @@
 //API Setup
-var api = 'http://api.openweathermap.org/data/2.5/weather?q=';
+var api = 'https://api.openweathermap.org/data/2.5/weather?q=';
 var apiKey = '&APPID=53387f386bbd1eb9a07277546d1504c7';
 var units = '&units=metric'; 
 //City select (can accept user input)
